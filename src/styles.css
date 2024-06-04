@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+  background-color: burlywood;
+  padding: 45px;
+}
+
+h4{
+  border-radius: 45px !important;
+}
